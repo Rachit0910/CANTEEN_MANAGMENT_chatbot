@@ -43,3 +43,5 @@ API documentation available at `/docs` when server is running.
 ## Deployment
 
 Configured for deployment on Render. See `render.yaml` for configuration.
+NOTE: THIS ONE IS BASIC CHATBOT. AT THIS POINT OF TIME ,IM STILL LEARNING
+
